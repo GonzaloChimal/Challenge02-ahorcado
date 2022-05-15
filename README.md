@@ -1,4 +1,4 @@
-# challenge02 - Ahorcado
+# Challenge02 - Ahorcado
 
 **Requisitos:**
 - Debe funcionar solo con letras mayúsculas;
