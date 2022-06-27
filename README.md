@@ -2,9 +2,7 @@
 
 ![172750044-77335872-230f-450d-8bd2-c2fb941cde95](https://user-images.githubusercontent.com/27865066/175985274-df073015-aa56-4f8c-a851-2f1e4a4f9889.png)
 
-
-
-
+#
 **Requisitos:**
 - Debe funcionar solo con letras mayúsculas;
 - No deben ser utilizadas letras con acentos ni caracteres especiales;
@@ -19,7 +17,7 @@
 **Extras:**
 - La página debe tener un campo para inserción de texto con la finalidad de adicionar nuevas palabras al juego, e un botón "Agregar palabra". 
 
-
+#
 **Requirements:**
 
 - It should work only with uppercase letters;
